@@ -1,1 +1,1 @@
-X
+1. Modified_SQL_Dataset.csv - This is the dataset for detecting SQL Injection attack. Label column contains the raw SQL query strings and Label column contains the integer value 0 or 1. In the Label column 0 indicates the non-malicious query and 1 indicates the malicious query.
